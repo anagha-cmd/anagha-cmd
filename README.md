@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Anagha Bhangare✨
+🔭 I’m currently working on Vision Language Models<br/>
+🧠 Graduated from IIT Bombay<br/>
+📫 Connect with me: [Linkedin](https://www.linkedin.com/in/anagha-bhangare/) <br/>
+⚡ Fun fact: I can speak 7 languages<br/> 
 
 <!--
 **anagha-cmd/anagha-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
